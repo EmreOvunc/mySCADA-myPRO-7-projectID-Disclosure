@@ -12,7 +12,7 @@ msfconsole
 
 use auxiliary/gather/mypro_enum_projectid 
 
-set RPHOST [IP ADDRES]
+set RHOST [IP ADDRES]
 
 run
 ```
