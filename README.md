@@ -15,7 +15,7 @@ msfconsole
 
 use auxiliary/gather/mypro_enum_projectid 
 
-set RHOST [IP ADDRES]
+set RHOST [IP ADDRESS]
 
 run
 ```
